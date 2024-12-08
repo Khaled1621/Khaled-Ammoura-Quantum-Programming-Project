@@ -31,8 +31,8 @@ This repository contains the problem set and the corresponding solutions for the
      - Calculations of expectation values and probability distributions  
      - Explanations of results and answers to conceptual questions  
 
-3. **`Quantum Mini-Project.zip`**  
-   - This ZIP file contains all the code implementations for the quantum programming project. Ensure to unzip this file before running the code. The ZIP archive includes:
+3. **`KhaledAmmoura_Project`**  
+   - This file contains all the code implementations for the quantum programming project. The file archive includes:
      - Python scripts for each problem  
      - Sample outputs and verification code  
 
@@ -114,15 +114,3 @@ import matplotlib.pyplot as plt
 
 print("Libraries installed successfully!")
 ```
-
----
-
-## Submission Guidelines
-
-- **Zip Format**: Submit all project files in a zip folder named `YourLastName_Project.zip`.  
-- **Code**: Ensure the code is well-commented and tested.  
-- **Oral Exam**: Be prepared for a 5-minute oral exam discussing your code, results, and underlying concepts.
-
----
-
-**Good luck with your project!**
